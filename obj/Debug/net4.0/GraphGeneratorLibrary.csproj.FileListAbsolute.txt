@@ -1,0 +1,8 @@
+C:\Users\Roger\Desktop\Files\Studies\CSharp\My_libraries\GraphGeneratorLibrary\bin\Debug\net4.0\GraphGeneratorLibrary.dll
+C:\Users\Roger\Desktop\Files\Studies\CSharp\My_libraries\GraphGeneratorLibrary\bin\Debug\net4.0\GraphGeneratorLibrary.pdb
+C:\Users\Roger\Desktop\Files\Studies\CSharp\My_libraries\GraphGeneratorLibrary\obj\Debug\net4.0\GraphGeneratorLibrary.csprojAssemblyReference.cache
+C:\Users\Roger\Desktop\Files\Studies\CSharp\My_libraries\GraphGeneratorLibrary\obj\Debug\net4.0\GraphGeneratorLibrary.AssemblyInfoInputs.cache
+C:\Users\Roger\Desktop\Files\Studies\CSharp\My_libraries\GraphGeneratorLibrary\obj\Debug\net4.0\GraphGeneratorLibrary.AssemblyInfo.cs
+C:\Users\Roger\Desktop\Files\Studies\CSharp\My_libraries\GraphGeneratorLibrary\obj\Debug\net4.0\GraphGeneratorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Roger\Desktop\Files\Studies\CSharp\My_libraries\GraphGeneratorLibrary\obj\Debug\net4.0\GraphGeneratorLibrary.dll
+C:\Users\Roger\Desktop\Files\Studies\CSharp\My_libraries\GraphGeneratorLibrary\obj\Debug\net4.0\GraphGeneratorLibrary.pdb
